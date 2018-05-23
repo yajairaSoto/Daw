@@ -1,0 +1,41 @@
+h1{
+    color: aqua;
+    font-size:45;
+}
+p b{
+    color: red;
+}
+p span{
+    color: orange;
+}
+h2{
+    color: blue;
+    font-size:39px;
+}
+p a{
+    color: red;
+}
+p i {
+    color: blue;
+}
+p class{
+    color: blueviolet;
+}
+.tabla {
+    border:1px solid;
+    width: 400px; 
+    border-collapse: collapse;
+}
+
+.tabla td{
+    border: 1px solid;
+}
+h4{
+    color: chartreuse;
+}
+.table  .chartreuse"{
+    color: chartreuse;
+}
+p {
+    color: darkgreen;
+}
