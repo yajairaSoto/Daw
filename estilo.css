@@ -1,3 +1,49 @@
 body{
- 
+ margin: 0;
+    padding: 0;
+    font-family: "montserrat", arial, sans-serif;
+    font-size: 12px;
+    background: url(https://todoimagenes.co/wp-content/uploads/2017/07/xo-26-1-500x887.jpg);
+    background-position: bottom center;
+}
+header h1, header h2, header h4{
+    margin: 0px;
+    padding: opx;
+    text-align: center;
+}
+header{
+    padding: 90px 5px;
+    margin-bottom: 20px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJ0KfDwA38lb_Mdwad7r2A9D8uRZqhTHyItBTgxZyMxkH_Msg) no-rapent center center;
+    color:#45ABFF;
+    
+    background-size: 100%;
+    border-radius: 5px;
+        
+        
+}
+.contenedor{
+    width: 70%;
+    margin: 0 auto;
+    background: #d789bb;
+    border-radius: 5px;
+}
+.contenedor section{
+  margin: 10px;
+}
+section{
+    float: left;
+    width: 47%;
+}
+section h1{
+    background: #7c7c7c;
+    color: white;
+}
+#imagenes img:hover{
+    padding: 5px;
+    margin: 10px;
+    width: 25%;
+}
+clear{
+    clear:both;
 }
